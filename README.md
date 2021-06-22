@@ -1,0 +1,1 @@
+# sample-config-git-server
